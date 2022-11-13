@@ -8,6 +8,11 @@ img {
     height: 200px;
     margin-left: 20px;
 }
+h3{
+    color: #781a27;
+    font-style: 16px;
+    text-decoration: underline;
+}
 ul{
     width: 400px;
     float: right;
