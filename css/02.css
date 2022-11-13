@@ -1,0 +1,26 @@
+body {
+    max-width: 980px;
+    margin: auto;
+}
+
+img {
+    width: 150px;
+    height: 200px;
+    margin-left: 20px;
+}
+ul{
+    width: 400px;
+    float: right;
+    list-style: none;
+}
+li{
+    line-height: 1.5;
+    text-align: right;
+    font-size: 14px;
+}
+hr{
+    height:1px;
+    width:100%;
+    background-color: #ff0000;
+
+}
