@@ -12,5 +12,17 @@ div{
     box-shadow: 0px 0px 15px #ef4848;
     border-radius: 6px;
 }
-div:hover{
-    background-color: #fa6969;
+div:hover {
+    background-color: rgba(248, 130, 171, 0.71);
+}
+a{
+    text-decoration: cyan;
+    transition: all 500ms;
+}
+a:hover{
+    color: white;
+}
+h3{
+    text-decoration: underline;
+    color: #f86666;
+}
