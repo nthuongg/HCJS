@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,500;1,700&display=swap');
+
+body{
+    background-color: #118d8d;
+    height:150vh;
+    display: flex;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+.card{
+    width:400px;
+    height: 600px;
+    background: #bed0e1;
+    border-radius: 10px;
+    text-align: center;
+    justify-content: center;
+    overflow: hidden;
+
+}
+.card1{
+    width:400px;
+    height: 400px;
+    background: #dadfe5;
+    border-radius: 10px;
+    text-align: center;
+    justify-content: center;
+    overflow: hidden;
+
+}
